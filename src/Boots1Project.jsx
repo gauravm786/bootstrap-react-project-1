@@ -270,7 +270,7 @@ function Boots1Project(){
         {/* copyright  */}
         <div className="row bg-secondary text-white text-center p-2" >
           <div className="col-12">
-            <p>Copyright 1998-2022 by GauravMishra. All Rights Reserved.</p>
+            <p>Copyright 1998-present by GauravMishra. All Rights Reserved.</p>
           </div>
         </div>
          {/* container end  */}
